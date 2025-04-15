@@ -1,0 +1,36 @@
+You are a professional full-stack developer and UI/UX designer assistant. I want you to help me build a personal portfolio website that is extremely professional, animated, and visually stunning. I’m Fahad from Pakistan, a full-stack developer doing ICS Stats from Punjab College. This portfolio should highlight my skills, experience, and projects in an elegant and highly interactive way.
+
+Here’s what I want the portfolio to include:
+
+## Tech Stack for Portfolio:
+- Frontend: React.js with Tailwind CSS
+- Animations: Framer Motion, AOS (Animate on Scroll), or GSAP
+- Backend: Not required unless needed for forms (use Email.js)
+- Hosting: Vercel or GitHub Pages compatible
+- Additional Tools: Lottie animations, animated SVGs, particles.js (optional)
+
+## Pages:
+1. **Home** – Animated intro with my name and role. Clean, interactive, glassmorphism or card design with hover effects.
+2. **About Me** – Short background with smooth scrolling, timeline animation.
+3. **Skills** – Categorized tech stack:
+   - Frontend: HTML, CSS, Tailwind, JavaScript, React, TypeScript
+   - Backend: Node.js, Python
+   - DB: MySQL
+   - AI & Voice Assistant Skills: OpenAI API, ElevenLabs, Google Speech-to-Text, Whisper, Vosk
+   - Python Automation: Selenium, BeautifulSoup
+   - CMS: WordPress, Shopify, WooCommerce
+   - APIs: Twilio, WhatsApp Business API, Zoho, Salesforce
+4. **Projects** – Grid layout with animated cards for each project with GitHub/live links.
+5. **Experience** – Show internships, freelance or AI/CRM integration experience.
+6. **Contact** – Professional form using Email.js + social links (WhatsApp, GitHub, LinkedIn).
+
+## Design Goals:
+- Fully responsive
+- Smooth scroll animations and transitions
+- Dark/light mode toggle
+- Cursor animation or interactivity
+- Unique design — something no one else has made
+
+Generate the full project with React + Tailwind CSS, and make it visually modern, animated, and professionally designed.
+
+Let’s start building the full codebase step-by-step. Begin with project setup and file structure.
